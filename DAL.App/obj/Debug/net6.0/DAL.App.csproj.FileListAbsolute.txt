@@ -1,0 +1,15 @@
+C:\Users\kra\Uni_Projects\DistDemoAuth\DAL.App\bin\Debug\net6.0\DAL.App.deps.json
+C:\Users\kra\Uni_Projects\DistDemoAuth\DAL.App\bin\Debug\net6.0\DAL.App.dll
+C:\Users\kra\Uni_Projects\DistDemoAuth\DAL.App\bin\Debug\net6.0\ref\DAL.App.dll
+C:\Users\kra\Uni_Projects\DistDemoAuth\DAL.App\bin\Debug\net6.0\DAL.App.pdb
+C:\Users\kra\Uni_Projects\DistDemoAuth\DAL.App\bin\Debug\net6.0\Domain.dll
+C:\Users\kra\Uni_Projects\DistDemoAuth\DAL.App\bin\Debug\net6.0\Domain.pdb
+C:\Users\kra\Uni_Projects\DistDemoAuth\DAL.App\obj\Debug\net6.0\DAL.App.csproj.AssemblyReference.cache
+C:\Users\kra\Uni_Projects\DistDemoAuth\DAL.App\obj\Debug\net6.0\DAL.App.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kra\Uni_Projects\DistDemoAuth\DAL.App\obj\Debug\net6.0\DAL.App.AssemblyInfoInputs.cache
+C:\Users\kra\Uni_Projects\DistDemoAuth\DAL.App\obj\Debug\net6.0\DAL.App.AssemblyInfo.cs
+C:\Users\kra\Uni_Projects\DistDemoAuth\DAL.App\obj\Debug\net6.0\DAL.App.csproj.CoreCompileInputs.cache
+C:\Users\kra\Uni_Projects\DistDemoAuth\DAL.App\obj\Debug\net6.0\DAL.App.csproj.CopyComplete
+C:\Users\kra\Uni_Projects\DistDemoAuth\DAL.App\obj\Debug\net6.0\DAL.App.dll
+C:\Users\kra\Uni_Projects\DistDemoAuth\DAL.App\obj\Debug\net6.0\ref\DAL.App.dll
+C:\Users\kra\Uni_Projects\DistDemoAuth\DAL.App\obj\Debug\net6.0\DAL.App.pdb
