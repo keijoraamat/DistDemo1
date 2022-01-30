@@ -23,6 +23,7 @@
 
 app.db
 app.db**
+**/bin/**
 
 *.suo
 *.user
