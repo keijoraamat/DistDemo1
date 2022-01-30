@@ -1,33 +1,30 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\kra\\Uni_Projects\\DistDemoAuth\\WebApp\\WebApp.csproj": {}
+    "/Users/aleksanderkadakas/uni_projects/distributred_apps/DistDemo1/WebApp/WebApp.csproj": {}
   },
   "projects": {
-    "C:\\Users\\kra\\Uni_Projects\\DistDemoAuth\\DAL.App\\DAL.App.csproj": {
+    "/Users/aleksanderkadakas/uni_projects/distributred_apps/DistDemo1/DAL.App/DAL.App.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\kra\\Uni_Projects\\DistDemoAuth\\DAL.App\\DAL.App.csproj",
+        "projectUniqueName": "/Users/aleksanderkadakas/uni_projects/distributred_apps/DistDemo1/DAL.App/DAL.App.csproj",
         "projectName": "DAL.App",
-        "projectPath": "C:\\Users\\kra\\Uni_Projects\\DistDemoAuth\\DAL.App\\DAL.App.csproj",
-        "packagesPath": "C:\\Users\\kra\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\kra\\Uni_Projects\\DistDemoAuth\\DAL.App\\obj\\",
+        "projectPath": "/Users/aleksanderkadakas/uni_projects/distributred_apps/DistDemo1/DAL.App/DAL.App.csproj",
+        "packagesPath": "/Users/aleksanderkadakas/.nuget/packages/",
+        "outputPath": "/Users/aleksanderkadakas/uni_projects/distributred_apps/DistDemo1/DAL.App/obj/",
         "projectStyle": "PackageReference",
-        "configFilePaths": [
-          "C:\\Users\\kra\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "fallbackFolders": [
+          "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
         ],
         "originalTargetFrameworks": [
           "net6.0"
         ],
-        "sources": {
-          "https://api.nuget.org/v3/index.json": {}
-        },
         "frameworks": {
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\kra\\Uni_Projects\\DistDemoAuth\\Domain\\Domain.csproj": {
-                "projectPath": "C:\\Users\\kra\\Uni_Projects\\DistDemoAuth\\Domain\\Domain.csproj"
+              "/Users/aleksanderkadakas/uni_projects/distributred_apps/DistDemo1/Domain/Domain.csproj": {
+                "projectPath": "/Users/aleksanderkadakas/uni_projects/distributred_apps/DistDemo1/Domain/Domain.csproj"
               }
             }
           }
@@ -43,6 +40,10 @@
           "targetAlias": "net6.0",
           "dependencies": {
             "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[6.0.1, )"
+            },
+            "Microsoft.EntityFrameworkCore.Sqlite": {
               "target": "Package",
               "version": "[6.0.1, )"
             }
@@ -62,28 +63,25 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.101/RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\kra\\Uni_Projects\\DistDemoAuth\\Domain\\Domain.csproj": {
+    "/Users/aleksanderkadakas/uni_projects/distributred_apps/DistDemo1/Domain/Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\kra\\Uni_Projects\\DistDemoAuth\\Domain\\Domain.csproj",
+        "projectUniqueName": "/Users/aleksanderkadakas/uni_projects/distributred_apps/DistDemo1/Domain/Domain.csproj",
         "projectName": "Domain",
-        "projectPath": "C:\\Users\\kra\\Uni_Projects\\DistDemoAuth\\Domain\\Domain.csproj",
-        "packagesPath": "C:\\Users\\kra\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\kra\\Uni_Projects\\DistDemoAuth\\Domain\\obj\\",
+        "projectPath": "/Users/aleksanderkadakas/uni_projects/distributred_apps/DistDemo1/Domain/Domain.csproj",
+        "packagesPath": "/Users/aleksanderkadakas/.nuget/packages/",
+        "outputPath": "/Users/aleksanderkadakas/uni_projects/distributred_apps/DistDemo1/Domain/obj/",
         "projectStyle": "PackageReference",
-        "configFilePaths": [
-          "C:\\Users\\kra\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "fallbackFolders": [
+          "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
         ],
         "originalTargetFrameworks": [
           "net6.0"
         ],
-        "sources": {
-          "https://api.nuget.org/v3/index.json": {}
-        },
         "frameworks": {
           "net6.0": {
             "targetAlias": "net6.0",
@@ -120,34 +118,31 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.101/RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\kra\\Uni_Projects\\DistDemoAuth\\WebApp\\WebApp.csproj": {
+    "/Users/aleksanderkadakas/uni_projects/distributred_apps/DistDemo1/WebApp/WebApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\kra\\Uni_Projects\\DistDemoAuth\\WebApp\\WebApp.csproj",
+        "projectUniqueName": "/Users/aleksanderkadakas/uni_projects/distributred_apps/DistDemo1/WebApp/WebApp.csproj",
         "projectName": "WebApp",
-        "projectPath": "C:\\Users\\kra\\Uni_Projects\\DistDemoAuth\\WebApp\\WebApp.csproj",
-        "packagesPath": "C:\\Users\\kra\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\kra\\Uni_Projects\\DistDemoAuth\\WebApp\\obj\\",
+        "projectPath": "/Users/aleksanderkadakas/uni_projects/distributred_apps/DistDemo1/WebApp/WebApp.csproj",
+        "packagesPath": "/Users/aleksanderkadakas/.nuget/packages/",
+        "outputPath": "/Users/aleksanderkadakas/uni_projects/distributred_apps/DistDemo1/WebApp/obj/",
         "projectStyle": "PackageReference",
-        "configFilePaths": [
-          "C:\\Users\\kra\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "fallbackFolders": [
+          "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
         ],
         "originalTargetFrameworks": [
           "net6.0"
         ],
-        "sources": {
-          "https://api.nuget.org/v3/index.json": {}
-        },
         "frameworks": {
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\kra\\Uni_Projects\\DistDemoAuth\\DAL.App\\DAL.App.csproj": {
-                "projectPath": "C:\\Users\\kra\\Uni_Projects\\DistDemoAuth\\DAL.App\\DAL.App.csproj"
+              "/Users/aleksanderkadakas/uni_projects/distributred_apps/DistDemo1/DAL.App/DAL.App.csproj": {
+                "projectPath": "/Users/aleksanderkadakas/uni_projects/distributred_apps/DistDemo1/DAL.App/DAL.App.csproj"
               }
             }
           }
@@ -181,6 +176,10 @@
             "Microsoft.EntityFrameworkCore.Tools": {
               "target": "Package",
               "version": "[6.0.1, )"
+            },
+            "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
+              "target": "Package",
+              "version": "[6.0.1, )"
             }
           },
           "imports": [
@@ -201,7 +200,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.101/RuntimeIdentifierGraph.json"
         }
       }
     }

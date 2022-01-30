@@ -7,4 +7,4 @@ build_property.InvariantGlobalization =
 build_property.PlatformNeutralAssembly = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = Domain
-build_property.ProjectDir = C:\Users\kra\Uni_Projects\DistDemoAuth\Domain\
+build_property.ProjectDir = /Users/aleksanderkadakas/uni_projects/distributred_apps/DistDemo1/Domain/

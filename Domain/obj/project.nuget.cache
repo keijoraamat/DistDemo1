@@ -1,22 +1,22 @@
 {
   "version": 2,
-  "dgSpecHash": "QKT9QXv8Nb2DPtifjXi7IrxPJxL7G0P6FSkJdYu/QEdwolUMfslwUyAP8jkUsvwkYue0Wy40CNDyerWgPpeWdA==",
+  "dgSpecHash": "sDsOzsZB2GKIkHZKcJctNbtk4Gr09HxjtrQUk4N46TPngle5jWnyhV6ric+Ld6KiAb9i8RSdWOFY0FuzYeOK4g==",
   "success": true,
-  "projectFilePath": "C:\\Users\\kra\\Uni_Projects\\DistDemoAuth\\Domain\\Domain.csproj",
+  "projectFilePath": "/Users/aleksanderkadakas/uni_projects/distributred_apps/DistDemo1/Domain/Domain.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\kra\\.nuget\\packages\\microsoft.aspnetcore.cryptography.internal\\6.0.1\\microsoft.aspnetcore.cryptography.internal.6.0.1.nupkg.sha512",
-    "C:\\Users\\kra\\.nuget\\packages\\microsoft.aspnetcore.cryptography.keyderivation\\6.0.1\\microsoft.aspnetcore.cryptography.keyderivation.6.0.1.nupkg.sha512",
-    "C:\\Users\\kra\\.nuget\\packages\\microsoft.extensions.caching.abstractions\\6.0.0\\microsoft.extensions.caching.abstractions.6.0.0.nupkg.sha512",
-    "C:\\Users\\kra\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\6.0.0\\microsoft.extensions.dependencyinjection.6.0.0.nupkg.sha512",
-    "C:\\Users\\kra\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\6.0.0\\microsoft.extensions.dependencyinjection.abstractions.6.0.0.nupkg.sha512",
-    "C:\\Users\\kra\\.nuget\\packages\\microsoft.extensions.identity.core\\6.0.1\\microsoft.extensions.identity.core.6.0.1.nupkg.sha512",
-    "C:\\Users\\kra\\.nuget\\packages\\microsoft.extensions.identity.stores\\6.0.1\\microsoft.extensions.identity.stores.6.0.1.nupkg.sha512",
-    "C:\\Users\\kra\\.nuget\\packages\\microsoft.extensions.logging\\6.0.0\\microsoft.extensions.logging.6.0.0.nupkg.sha512",
-    "C:\\Users\\kra\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\6.0.0\\microsoft.extensions.logging.abstractions.6.0.0.nupkg.sha512",
-    "C:\\Users\\kra\\.nuget\\packages\\microsoft.extensions.options\\6.0.0\\microsoft.extensions.options.6.0.0.nupkg.sha512",
-    "C:\\Users\\kra\\.nuget\\packages\\microsoft.extensions.primitives\\6.0.0\\microsoft.extensions.primitives.6.0.0.nupkg.sha512",
-    "C:\\Users\\kra\\.nuget\\packages\\system.diagnostics.diagnosticsource\\6.0.0\\system.diagnostics.diagnosticsource.6.0.0.nupkg.sha512",
-    "C:\\Users\\kra\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
+    "/Users/aleksanderkadakas/.nuget/packages/microsoft.aspnetcore.cryptography.internal/6.0.1/microsoft.aspnetcore.cryptography.internal.6.0.1.nupkg.sha512",
+    "/Users/aleksanderkadakas/.nuget/packages/microsoft.aspnetcore.cryptography.keyderivation/6.0.1/microsoft.aspnetcore.cryptography.keyderivation.6.0.1.nupkg.sha512",
+    "/Users/aleksanderkadakas/.nuget/packages/microsoft.extensions.caching.abstractions/6.0.0/microsoft.extensions.caching.abstractions.6.0.0.nupkg.sha512",
+    "/Users/aleksanderkadakas/.nuget/packages/microsoft.extensions.dependencyinjection/6.0.0/microsoft.extensions.dependencyinjection.6.0.0.nupkg.sha512",
+    "/Users/aleksanderkadakas/.nuget/packages/microsoft.extensions.dependencyinjection.abstractions/6.0.0/microsoft.extensions.dependencyinjection.abstractions.6.0.0.nupkg.sha512",
+    "/Users/aleksanderkadakas/.nuget/packages/microsoft.extensions.identity.core/6.0.1/microsoft.extensions.identity.core.6.0.1.nupkg.sha512",
+    "/Users/aleksanderkadakas/.nuget/packages/microsoft.extensions.identity.stores/6.0.1/microsoft.extensions.identity.stores.6.0.1.nupkg.sha512",
+    "/Users/aleksanderkadakas/.nuget/packages/microsoft.extensions.logging/6.0.0/microsoft.extensions.logging.6.0.0.nupkg.sha512",
+    "/Users/aleksanderkadakas/.nuget/packages/microsoft.extensions.logging.abstractions/6.0.0/microsoft.extensions.logging.abstractions.6.0.0.nupkg.sha512",
+    "/Users/aleksanderkadakas/.nuget/packages/microsoft.extensions.options/6.0.0/microsoft.extensions.options.6.0.0.nupkg.sha512",
+    "/Users/aleksanderkadakas/.nuget/packages/microsoft.extensions.primitives/6.0.0/microsoft.extensions.primitives.6.0.0.nupkg.sha512",
+    "/Users/aleksanderkadakas/.nuget/packages/system.diagnostics.diagnosticsource/6.0.0/system.diagnostics.diagnosticsource.6.0.0.nupkg.sha512",
+    "/Users/aleksanderkadakas/.nuget/packages/system.runtime.compilerservices.unsafe/6.0.0/system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
   ],
   "logs": []
 }

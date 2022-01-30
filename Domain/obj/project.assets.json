@@ -498,26 +498,24 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\kra\\.nuget\\packages\\": {}
+    "/Users/aleksanderkadakas/.nuget/packages/": {},
+    "/usr/local/share/dotnet/sdk/NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\kra\\Uni_Projects\\DistDemoAuth\\Domain\\Domain.csproj",
+      "projectUniqueName": "/Users/aleksanderkadakas/uni_projects/distributred_apps/DistDemo1/Domain/Domain.csproj",
       "projectName": "Domain",
-      "projectPath": "C:\\Users\\kra\\Uni_Projects\\DistDemoAuth\\Domain\\Domain.csproj",
-      "packagesPath": "C:\\Users\\kra\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\kra\\Uni_Projects\\DistDemoAuth\\Domain\\obj\\",
+      "projectPath": "/Users/aleksanderkadakas/uni_projects/distributred_apps/DistDemo1/Domain/Domain.csproj",
+      "packagesPath": "/Users/aleksanderkadakas/.nuget/packages/",
+      "outputPath": "/Users/aleksanderkadakas/uni_projects/distributred_apps/DistDemo1/Domain/obj/",
       "projectStyle": "PackageReference",
-      "configFilePaths": [
-        "C:\\Users\\kra\\AppData\\Roaming\\NuGet\\NuGet.Config"
+      "fallbackFolders": [
+        "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
       ],
       "originalTargetFrameworks": [
         "net6.0"
       ],
-      "sources": {
-        "https://api.nuget.org/v3/index.json": {}
-      },
       "frameworks": {
         "net6.0": {
           "targetAlias": "net6.0",
@@ -554,7 +552,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.101/RuntimeIdentifierGraph.json"
       }
     }
   }
